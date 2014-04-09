@@ -1,0 +1,4 @@
+name: iEnchant
+main: me.suzutsuki.iEnchant.iEnchant
+version: 1.0
+depend: [EnchantmentAPI]
